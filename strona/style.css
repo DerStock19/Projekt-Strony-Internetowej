@@ -1,3 +1,8 @@
+body
+{
+    background-color: #679436;
+}
+
 #logo
 {
     width: 15%;
@@ -12,10 +17,10 @@
     border: 4px black solid;
     max-height: 20%;
     max-width: 50%;
+    background-color: #A5BE00;
 }
 #logo_tekst
 {
-    
     font-size: 5vw;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -30,11 +35,11 @@
 {
     display: inline-block;
     font-size: 1.2vw;
+    color:black;
 }
 article
 {
     width: 80%;
-    font-size: 1.4vw;
     display: inline-block;
 }
 #art
@@ -46,8 +51,6 @@ article
 #art2
 {
     float: right;
+    font-size: 1.4vw;
 }
-#art,#art2
-{
-    display: flexbox;
-}
+
