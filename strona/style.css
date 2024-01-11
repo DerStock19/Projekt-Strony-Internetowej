@@ -9,10 +9,9 @@
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    border-style: initial;
-    border: 2px;
+    border-style: solid;
+    border:2px black;
 }
-
 #logo_tekst
 {
     font-size: 50px;
