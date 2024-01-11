@@ -1,6 +1,7 @@
 body
 {
     background-color: #679436;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 #logo
@@ -23,6 +24,12 @@ body
 {
     font-size: 5vw;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#input
+{
+    width:auto;
+    margin:0 auto;
+    text-align: center;
 }
 
 #logo, #logo_tekst
@@ -53,4 +60,10 @@ article
     float: right;
     font-size: 1.4vw;
 }
-
+input
+{
+    height: 2.8vw;
+    width: 25w;
+    margin-bottom: 5px;
+    border-radius: 20%;
+}
